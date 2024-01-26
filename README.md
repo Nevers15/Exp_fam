@@ -69,7 +69,7 @@ Our chances of having at least one candidate who replies positively stand at alm
 
 ## Research Conclusion:
 
-The Exponential Family is used in many classical machine learning applications and in various cases in Data Analisys as a tool to measure the probability of certain outcomes.
+The Exponential Family is used in many classical machine learning applications and in various cases in Data Analisys as a tool to measure the probability of certain outcomes without gathering amounts of data.
 
 ## Project Tools
 
