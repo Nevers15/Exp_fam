@@ -67,6 +67,10 @@ Suppose you are a recruiter and you need to find a suitable candidate to fill an
 
 Our chances of having at least one candidate who replies positively stand at almost 40%
 
+## Research Conclusion:
+
+The Exponential Family is used in many classical machine learning applications and in various cases in Data Analisys as a tool to measure the probability of certain outcomes.
+
 ## Project Tools
 
 - Python
