@@ -15,7 +15,7 @@ The Poisson distribution is useful in any scenario where you want to model the o
 
 Let’s say you are looking at an intersection and expect cars to take a left turn at a rate of 5 per minute. You could calculate the probability of observing 3 cars turning left by using the Poisson distribution.
 
-<img src="" alt="Poisson"/>
+<img src="https://imgur.com/a/5mi4tVD" alt="Poisson"/>
 
 ### Result of Poisson Distribution case:
 
