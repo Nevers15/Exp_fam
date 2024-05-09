@@ -1,4 +1,4 @@
-# "TOAZ" Implementation of the Exponential Family with Examples
+# Implementation of the Exponential Family with Examples
 
 
 
